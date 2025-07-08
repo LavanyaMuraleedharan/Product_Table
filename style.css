@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+table {
+  margin-left: 539px;
+  margin-top: 40px;
+  border-spacing: 5px;
+  background-color: black;
+}
